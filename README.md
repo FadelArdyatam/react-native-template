@@ -91,6 +91,7 @@ cd react_native-restate
 **Installation** 
 
 ```bash
+rm -r package-lock.json
 npm install
 ```
 
